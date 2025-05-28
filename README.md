@@ -24,11 +24,6 @@ Je crois fermement en un monde numérique plus sûr et plus fiable, où chaque d
 
 ---
 
-### 🇧🇪 Originaire de Belgique
-Je suis fier de mes racines et j'espère contribuer à la communauté mondiale de la cybersécurité.
-
----
-
 ### 🎯 Mes Objectifs
 1. Approfondir mes connaissances en Python et autres outils de cybersécurité
 2. Participer à des projets qui ont un impact réel
@@ -37,14 +32,11 @@ Je suis fier de mes racines et j'espère contribuer à la communauté mondiale d
 ---
 
 ### ✉️ Contact
-N'hésitez pas à explorer mes projets ici sur GitHub ou à me contacter pour échanger !
+N'hésitez pas à explorer mes projets ici sur GitHub ou à me contacter pour échanger sur Linkedin www.linkedin.com/in/steve-servais-cyber !
 
 ---
 
-### 🖼️ Illustration
-![Steve](image1)
 
----
 
 Merci de visiter mon profil, et n'oubliez pas : **l'innovation est la clé de l'avenir !**
 
